@@ -14,4 +14,7 @@
 - [Requirements Table](./Requirements_SE_Lab1_Team6.xlsx)
 - [Use Case Diagram](./Usecase%20Diagram.png)
 - [Use Case Flow](./UsecaseFlow_SE_Lab1_Team6.pdf)
-- [Test Cases](./PES1UG24AM151_SE_Lab1_TC4.pdf)
+- [Test Case - 04](./PES1UG24AM151_SE_Lab1_TC4.pdf)
+
+
+
