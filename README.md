@@ -17,4 +17,10 @@
 - [Test Case - 04](./Lab%201/PES1UG24AM151_SE_Lab1_TC4.pdf)
 
 
+### Lab 2: Agile Backlog Creation & Sprint Simulation in Jira
+
+**Problem Statement #6:** Alumni Mentorship & Mock Interview Platform
+
+- [Jira Report](./Lab%202/PES1UG24AM151_SE_Lab2_Jira_Report.pdf)
+
 
